@@ -1,0 +1,37 @@
+{
+  "id": "plasticine-date",
+  "title": "Plasticine Date",
+  "coverUrl": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/plasticine-date/128.jpeg",
+  "items": [
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/plasticine-date/128.jpeg",
+      "caption": "Nos pusimos artistas, primer pato de la noche",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/plasticine-date/129.jpeg",
+      "caption": "Tu patito y el mio eran hermanos, en esta y las otras vidas 🕊️",
+      "duration": 5000
+    },
+    {
+      "type": "video",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/plasticine-date/130.mp4",
+      "caption": "Somos artistas, solo que en otra vida seremos famosos por esto, y nos haremos ricos 💰",
+      "duration": 12000
+    },
+    {
+      "type": "video",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/plasticine-date/131.mp4",
+      "caption": "Tu perry el ornitorrinco estaba hermoso.",
+      "duration": 10000
+    },
+    {
+      "type": "video",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/plasticine-date/132.mp4",
+      "caption": "Podre fastidiarte mil veces pero eresw mas capaz de lo que crees.",
+      "duration": 12000
+    }
+  ]
+}

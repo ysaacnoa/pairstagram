@@ -1,0 +1,61 @@
+{
+  "id": "corea-food",
+  "title": "Comida Coreana",
+  "coverUrl": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/25.jpeg",
+  "items": [
+    {
+      "type": "video",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/24.mp4",
+      "caption": "Esta parte de mi vida, se llama mi novia me marca como territorio 🦐",
+      "duration": 12000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/25.jpeg",
+      "caption": "No habia comido este tipo de comida, fue 31 de octubre halloween",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/26.jpeg",
+      "caption": "Ame comer contigo y probar nuevas cosas",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/27.jpeg",
+      "caption":"Esperando tu plato porque no llegaba 🐑",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/28.jpeg",
+      "caption": "Tu mirandome es algo de lo que no me canso de ver, te amo",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/29.jpeg",
+      "caption": "Yo dandome cuenta que tomas fotos cad vez que me muevo ❤️",
+      "duration": 5000
+    },
+    {
+      "type": "video",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/30.mp4",
+      "caption":"Episodio de comer con palitos, eres talentosa.",
+      "duration": 10000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/31.jpeg",
+      "caption": "Repito, contigo me siento el rey del mundo, siento que soy guapo eres mi vida entera 💕",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/corea-food/32.jpeg",
+      "caption": "Modo serio jaja 🫠",
+      "duration": 5000
+    }
+  ]
+}

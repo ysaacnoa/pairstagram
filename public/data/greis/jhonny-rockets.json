@@ -1,0 +1,31 @@
+{
+  "id": "jhonny-rockets",
+  "title": "Johnny Rockets",
+  "coverUrl": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/jhonny-rockets/53.jpg",
+  "items": [
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/jhonny-rockets/53.jpg",
+      "caption": "Un dia iremos a Nuena York, pero por mientas Jhony rockets 🍩",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/jhonny-rockets/54.jpg",
+      "caption": "El ahora es algo que no cambiaria por nada, mi mirada no miente cuando te dice que te ama",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/jhonny-rockets/55.jpg",
+      "caption": "El peppers y maracuya, tus antojos y yo",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/jhonny-rockets/56.jpg",
+      "caption": "Me gusta esta, porque soy yo mirandote porque me gustas 🍪🍪",
+      "duration": 5000
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chienese-food",
+  "title": "Comida China",
+  "coverUrl": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/chienese-food/123.jpg",
+  "items": [
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/chienese-food/123.jpg",
+      "caption": "Bueno seccion de comida china, iremos por mas paises lo prometo jeje",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/chienese-food/124.jpg",
+      "caption": "Pero toco porque mi novia no habia ido a madam tusan",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/chienese-food/125.jpg",
+      "caption": "La mejor fotografa de comida china, y la mejor comida china de la ciudad 🍄",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/chienese-food/126.jpg",
+      "caption": "Sonrisa de antojo cumplido, te amo cielo",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/chienese-food/127.jpg",
+      "caption": "Te para bajar la comida, prometo mejorar en las salidas y en prestar atencion a los detalles, pero es que me distraigo con tu belleza",
+      "duration": 5000
+    }
+  ]
+}

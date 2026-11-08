@@ -30,3 +30,5 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+<!-- .\llama-server.exe -m "C:\Users\carlo\.lmstudio\models\prism-ml\Ternary-Bonsai-2-27B-gguf\Ternary-Bonsai-2-27B-PQ2_0.gguf" -ngl 99 -c 32768 --port 58080 -->

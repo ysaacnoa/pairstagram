@@ -1,0 +1,73 @@
+{
+  "id": "italia-food",
+  "title": "Comida Italiana",
+  "coverUrl": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/42.jpg",
+  "items": [
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/42.jpg",
+      "caption": "Recuerdo esto ibamos al parque de la amistad o de la imaginacion sino me equivoco",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/43.jpg",
+      "caption": "Recorrimos un largo camino",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/44.jpg",
+      "caption": "Y cada tramo tomabas una foto jeje, amo eso de ti mi vida 🌈",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/45.jpg",
+      "caption": "Cuando miro estas fotos mi alma se llena y coomplementa enserio",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/46.jpg",
+      "caption": "Me doy cuenta porque quiero estar contigo y porque te eligo todos los dias, con problemas, discusiones y malos dias",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/47.jpg",
+      "caption": "La comida de un restaurante que encontramos 🍽️🍽️",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/48.jpg",
+      "caption": "Un brindis por encontrarnos en esta y todas las demas vidas ❤️❤️",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/49.jpg",
+      "caption": "Salud cielo 🍹🍹",
+      "duration": 5000
+    },
+    {
+      "type": "image",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/50.jpg",
+      "caption": "Por mas aniversarios juntos",
+      "duration": 5000
+    },
+    {
+      "type": "video",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/51.mp4",
+      "caption": "Ñam Ñam Ñam siempre riendo y siempre comiendo.",
+      "duration": 10000
+    },
+    {
+      "type": "video",
+      "url": "https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/italia-food/52.mp4",
+      "caption": "Creo que eres tu la que sabe mi mejor angulo, voy a contratarte para mis videos",
+      "duration": 12000
+    }
+  ]
+}
