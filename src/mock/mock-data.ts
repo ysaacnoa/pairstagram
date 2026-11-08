@@ -16,21 +16,14 @@ export interface Post {
 }
 
 export const USER_PROFILE = {
-  username: 'nuestra_historia',
+  username: 'Nuestra Historia',
   name: 'Tú & Yo 💖',
   bio: 'Coleccionando momentos e historias juntos ✨\nDesde el día #1 | Nuestro lugar favorito 📍',
-  avatarUrl: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=300&auto=format&fit=crop&q=80',
-  postsCount: 12,
+  avatarUrl: 'https://pub-ca80f20b7e1043ffbe2af60cad47810f.r2.dev/greis/image-main.jpg',
+  postsCount: 11,
   followersCount: '1M',
   followingCount: '1',
 };
-
-export const MOCK_STORIES: Story[] = [
-  { id: '1', title: 'Viajes ✈️', coverUrl: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=150&auto=format&fit=crop&q=80' },
-  { id: '2', title: 'Citas ☕', coverUrl: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=150&auto=format&fit=crop&q=80' },
-  { id: '3', title: 'Risas 😂', coverUrl: 'https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=150&auto=format&fit=crop&q=80' },
-  { id: '4', title: 'Conciertos 🎶', coverUrl: 'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=150&auto=format&fit=crop&q=80' },
-];
 
 export const MOCK_POSTS: Post[] = [
   {

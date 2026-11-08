@@ -1,36 +1,54 @@
 import * as stylex from '@stylexjs/stylex';
 
 export const colors = stylex.defineVars({
-  // Fondos Claros y Suaves (Base Marfil/Crema)
-  colorBgBase: '#FAF7F7',
-  colorBgElevated: '#FFFFFF',
-  colorBgSubtle: '#F4ECEE',
-  colorBgInteractive: '#EFE3E6',
+  // 🌸 FONDOS BASE Y SURFACES ROMÁNTICAS
+  colorBgBase: '#FAF4F5', // Crema suave con tinte rosado sutil
+  colorBgElevated: '#FFFFFF', // Blanco puro para tarjetas principales
+  colorBgSubtle: '#F6EAEF', // Superficies secundarias suavemente tintadas
+  colorBgInteractive: '#EFE0E5', // Fichas y botones interactivos suaves
   colorBgHover: 'rgba(224, 82, 99, 0.08)',
-  colorBgActive: 'rgba(224, 82, 99, 0.14)',
+  colorBgActive: 'rgba(224, 82, 99, 0.16)',
 
-  // Marca y Corazón
+  // ✨ GLASSMORPHISM & BLUR TINTADOS (Efecto Cristal Romántico)
+  colorGlassSurface: 'rgba(255, 252, 253, 0.72)', // Cristal traslúcido para Header/Navbar
+  colorGlassSurfaceElevated: 'rgba(255, 255, 255, 0.85)', // Cristal para Modales
+  colorGlassBorder: 'rgba(238, 220, 224, 0.65)', // Borde sutil brillante
+  colorGlassOverlay: 'rgba(43, 30, 34, 0.45)', // Overlay oscuro para historias/modales con tinte vino
+
+  // 🌹 MARCA Y ACENTOS
   colorBrandPrimary: '#E05263',
   colorBrandPrimaryHover: '#C83E50',
   colorBrandHeart: '#FF4D6D',
-  colorBrandGlow: 'rgba(224, 82, 99, 0.15)',
+  colorBrandGlow: 'rgba(224, 82, 99, 0.20)',
 
-  // Bordes sutiles
+  // 🎀 BORDES SUTILES
   colorBorderDefault: '#EEDCE0',
   colorBorderStrong: '#DFC2C8',
   colorBorderFocus: '#E05263',
 
-  // 🎨 JERARQUÍA DE TEXTO OPTIMIZADA PARA MODO CLARO
-  colorTextPrimary: '#2B1E22',    // Títulos y texto principal (Marrón café/vino muy oscuro)
-  colorTextSecondary: '#6B575D',  // Subtítulos y descripciones (Rosa ceniza oscuro)
-  colorTextTertiary: '#9E888E',   // Placeholders e íconos inactivos (Rosa topo medio)
-  colorTextOnPrimary: '#FFFFFF',  // Texto sobre botones rosados/rojos
-  colorTextLink: '#D9384E',       // Enlaces y acentos dinámicos
+  // 🎨 JERARQUÍA DE TEXTO EN MODO CLARO
+  colorTextPrimary: '#2B1E22', // Marrón café/vino muy oscuro para alto contraste
+  colorTextSecondary: '#6B575D', // Rosa ceniza oscuro para lecturas secundarias
+  colorTextTertiary: '#9E888E', // Placeholders e íconos inactivos
+  colorTextOnPrimary: '#FFFFFF', // Texto sobre superficies con gradiente
+  colorTextLink: '#D9384E', // Enlaces y acentos dinámicos
 
-  // Degradados Románticos
+  // 💗 DEGRADADOS ROMÁNTICOS
   gradientStoryRing: 'linear-gradient(135deg, #FF9A9E 0%, #FECFEF 50%, #E05263 100%)',
-  gradientOverlay: 'linear-gradient(180deg, rgba(43,30,34,0) 0%, rgba(43,30,34,0.6) 100%)',
+  gradientOverlay: 'linear-gradient(180deg, rgba(43,30,34,0) 0%, rgba(43,30,34,0.65) 100%)',
   gradientHeroButton: 'linear-gradient(135deg, #E05263 0%, #D84358 100%)',
+  gradientGlassCard: 'linear-gradient(135deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 240, 243, 0.6) 100%)',
+
+  // 🎬 STORY VIEWER DEDICADO
+  colorStoryViewerOverlay: 'rgba(30, 18, 22, 0.88)',
+  colorStoryViewerSurface: 'linear-gradient(180deg, rgba(43, 30, 34, 0.90), rgba(25, 15, 18, 0.95))',
+  colorStoryViewerText: '#FFFFFF',
+  colorStoryViewerTextMuted: 'rgba(255, 255, 255, 0.75)',
+  colorStoryViewerAccent: '#FF9A9E',
+  colorStoryViewerProgressTrack: 'rgba(255, 255, 255, 0.30)',
+  colorStoryViewerProgressFill: '#FFFFFF',
+  colorStoryViewerCaptionBg: 'rgba(43, 30, 34, 0.75)',
+  colorStoryViewerShadow: '0 24px 70px rgba(43, 30, 34, 0.50)',
 });
 
 export const shape = stylex.defineVars({
@@ -41,9 +59,16 @@ export const shape = stylex.defineVars({
   radiusXl: '24px',
   radiusFull: '9999px',
 
+  // Sombras con resplandor suave
   shadowElevationSm: '0 2px 8px rgba(224, 82, 99, 0.06)',
-  shadowElevationMd: '0 8px 24px rgba(224, 82, 99, 0.10)',
-  shadowGlow: '0 4px 15px rgba(224, 82, 99, 0.18)',
+  shadowElevationMd: '0 8px 24px rgba(224, 82, 99, 0.12)',
+  shadowElevated: '0 16px 40px rgba(43, 30, 34, 0.15)',
+  shadowGlow: '0 4px 18px rgba(224, 82, 99, 0.22)',
+
+  // Blurs de Glassmorphism
+  blurSm: 'blur(8px)',
+  blurMd: 'blur(16px)',
+  blurLg: 'blur(24px)',
 
   zIndexBase: '1',
   zIndexSticky: '100',
@@ -56,7 +81,7 @@ export const shape = stylex.defineVars({
 });
 
 export const spacing = stylex.defineVars({
-  spacenone: '0px',
+  spaceNone: '0px',
   space2xs: '2px',
   spaceXs: '4px',
   spaceSm: '8px',
@@ -74,6 +99,7 @@ export const spacing = stylex.defineVars({
 export const typography = stylex.defineVars({
   fontFamilyBase: '"Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
   fontFamilyMono: 'ui-monospace, Menlo, Monaco, monospace',
+  fontFamilyCursive: '"Dancing Script", "Caveat", "Brush Script MT", cursive',
 
   fontSizeXs: '11px',
   fontSizeSm: '12px',

@@ -1,26 +1,26 @@
 import * as stylex from '@stylexjs/stylex';
-import { Navbar } from './home/navbar';
-import { ProfileHeader } from './home/profile-header';
-import { FeedGrid } from './home/feed';
-import { USER_PROFILE, MOCK_STORIES, MOCK_POSTS } from './mock/mock-data';
+import { Navbar } from '@/modules/home/components/navbar';
+import { ProfileHeader } from '@/modules/home/components/profile-header';
+import { FeedGrid } from '@/modules/home/components/feed';
+import { MOCK_POSTS } from '@/mock/mock-data';
 import { appStyles } from './app.styles';
-import type { PostItem } from './home/feed/feed.types';
+import type { PostItem } from '@/modules/home/models/feed.types';
 
 
 function App() {
-  const handleSearchChange = (query: string) => {
+  const handleSearchChange = (_query: string) => {
     // Lógica futura para filtrar el feed
   };
 
-  const handleNavAction = (actionId: string) => {
+  const handleNavAction = (_actionId: string) => {
     // Lógica para crear post, abrir notificaciones o mensajes
   };
 
-  const handlePostClick = (post: PostItem) => {
+  const handlePostClick = (_post: PostItem) => {
     // Lógica futura para abrir el modal del post
   };
 
-  const handleStoryClick = (storyId: string) => {
+  const handleStoryClick = (_storyId: string) => {
     // Lógica futura para abrir el visor de historias
   };
 
@@ -31,8 +31,6 @@ function App() {
         onActionClick={handleNavAction}
       />
       <ProfileHeader
-        profile={USER_PROFILE}
-        stories={MOCK_STORIES}
         onStoryClick={handleStoryClick}
       />
       <FeedGrid

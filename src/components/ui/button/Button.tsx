@@ -12,10 +12,9 @@ export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 export const Button = ({
   children,
   variant = 'primary',
-  size = 'md',
-  fullWidth = false,
-  className,
-  ...props
+    size = 'md',
+    fullWidth = false,
+    ...props
 }: ButtonProps) => {
   return (
     <button

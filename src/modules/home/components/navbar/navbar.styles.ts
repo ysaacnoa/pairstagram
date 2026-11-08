@@ -6,11 +6,12 @@ export const navbarStyles = stylex.create({
     position: 'sticky',
     top: 0,
     zIndex: shape.zIndexSticky,
-    backgroundColor: 'rgba(253, 251, 251, 0.85)',
-    backdropFilter: 'blur(12px)',
+    backgroundColor: colors.colorGlassSurface,
+    backdropFilter: shape.blurSm,
     borderBottomWidth: '1px',
     borderBottomStyle: 'solid',
-    borderBottomColor: colors.colorBorderDefault,
+    borderBottomColor: colors.colorGlassBorder,
+    boxShadow: shape.shadowElevationSm,
     paddingVertical: spacing.spaceSm,
   },
   container: {
@@ -27,9 +28,10 @@ export const navbarStyles = stylex.create({
     fontWeight: typography.fontWeightBold,
     letterSpacing: '-0.5px',
     cursor: 'pointer',
-    background: colors.gradientStoryRing,
+    backgroundImage: colors.gradientStoryRing,
     backgroundClip: 'text',
     WebkitBackgroundClip: 'text',
+    color: 'transparent',
   },
   searchWrapper: {
     display: {

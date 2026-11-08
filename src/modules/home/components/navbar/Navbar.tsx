@@ -5,7 +5,7 @@ import * as stylex from '@stylexjs/stylex';
 import { Heart, MessageCircle, PlusSquare } from 'lucide-react';
 import React from 'react';
 import { navbarStyles } from './navbar.styles';
-import type { NavActionItem, NavbarProps } from './navbar.types';
+import type { NavActionItem, NavbarProps } from '@/modules/home/models/navbar.types';
 
 export const Navbar: React.FC<NavbarProps> = ({
   onSearchChange,
@@ -33,7 +33,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   return (
     <header {...stylex.props(navbarStyles.root)}>
       <div {...stylex.props(navbarStyles.container)}>
-        <h1 {...stylex.props(navbarStyles.logo)}>PairStagram</h1>
+        <h1 {...stylex.props(navbarStyles.logo)}>MyDateJournal</h1>
 
         {/* Buscador Reutilizable */}
         <div {...stylex.props(navbarStyles.searchWrapper)}>

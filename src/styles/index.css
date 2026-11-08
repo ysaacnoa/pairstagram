@@ -17,12 +17,13 @@ body {
   padding: 0;
   min-height: 100vh;
   overflow-x: hidden;
-  background-color: #FAF7F5;
-  color: #2C2828;
-  font-family: 'Inter', sans-serif;
+  /* Fondo base rosa crema muy cálido y acogedor */
+  background-color: #FAF4F5;
+  color: #2B1E22;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-/* Personalización del Scrollbar global */
+/* Personalización del Scrollbar Romántico */
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
@@ -33,10 +34,10 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #E2DDD9;
+  background-color: #EEDCE0;
   border-radius: 9999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #EFA79B;
+  background-color: #E05263;
 }
